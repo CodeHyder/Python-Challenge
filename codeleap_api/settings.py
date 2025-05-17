@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-n^^@1ln3b0dt*!97g^%2k@b5yq$&3z**kln!s4nm)%ddlcx=b*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "localhost",
+    "127.0.0.1",
+    "python-challenge-8guz.onrender.com"  # coloque seu domínio exato aqui
+]
 
 
 # Application definition
