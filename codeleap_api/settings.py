@@ -132,5 +132,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [ 
     "http://localhost:5173",
-    "https://python-challenge-8guz.onrender.com",
+    "https://react-posts-kf9qomdf1-codehyders-projects.vercel.app",
 ]
