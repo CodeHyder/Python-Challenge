@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "python-challenge-8guz.onrender.com"  # coloque seu domínio exato aqui
+    "python-challenge-8guz.onrender.com"
 ]
 
 
@@ -132,4 +132,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [ 
     "http://localhost:5173",
+    "https://python-challenge-8guz.onrender.com",
 ]
