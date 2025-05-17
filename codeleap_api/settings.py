@@ -133,5 +133,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [ 
     "http://localhost:5173",
     "https://react-posts-kf9qomdf1-codehyders-projects.vercel.app",
-    "https://react-posts-app-dun.vercel.app/"
+    "https://react-posts-app-dun.vercel.app"
 ]
